@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://valerii:62321200@cluster0-m2x6x.mongodb.net/tasks?retryWrites=true&w=majority"
+
+}
